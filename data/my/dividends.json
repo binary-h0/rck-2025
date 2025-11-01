@@ -1,0 +1,11 @@
+{
+  "dividends": [
+    { "date": "2023-03-31", "amount": 120000, "shares": 200, "perShare": 600 },
+    { "date": "2023-09-30", "amount": 150000, "shares": 220, "perShare": 681 },
+    { "date": "2024-03-31", "amount": 160000, "shares": 250, "perShare": 640 },
+    { "date": "2024-09-30", "amount": 180000, "shares": 270, "perShare": 667 },
+    { "date": "2025-03-31", "amount": 200000, "shares": 300, "perShare": 667 }
+  ]
+}
+
+

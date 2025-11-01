@@ -1,0 +1,39 @@
+{
+  "holdings": [
+    { "acqDate": "2023-01-07", "price": 39500, "shares": 8,  "method": "본인자금" },
+    { "acqDate": "2023-02-07", "price": 40200, "shares": 8,  "method": "본인자금" },
+    { "acqDate": "2023-03-07", "price": 41000, "shares": 8,  "method": "본인자금" },
+    { "acqDate": "2023-04-07", "price": 39800, "shares": 8,  "method": "본인자금" },
+    { "acqDate": "2023-05-07", "price": 40500, "shares": 8,  "method": "본인자금" },
+    { "acqDate": "2023-06-07", "price": 40000, "shares": 8,  "method": "본인자금" },
+    { "acqDate": "2023-07-05", "price": 40000, "shares": 10, "method": "무상출연" },
+    { "acqDate": "2023-07-07", "price": 41200, "shares": 8,  "method": "본인자금" },
+    { "acqDate": "2023-08-07", "price": 40800, "shares": 8,  "method": "본인자금" },
+    { "acqDate": "2023-09-07", "price": 40200, "shares": 8,  "method": "본인자금" },
+    { "acqDate": "2023-10-07", "price": 39500, "shares": 8,  "method": "본인자금" },
+
+    { "acqDate": "2024-01-07", "price": 45000, "shares": 7,  "method": "본인자금" },
+    { "acqDate": "2024-02-07", "price": 45500, "shares": 7,  "method": "본인자금" },
+    { "acqDate": "2024-03-07", "price": 46000, "shares": 7,  "method": "본인자금" },
+    { "acqDate": "2024-04-07", "price": 44800, "shares": 7,  "method": "본인자금" },
+    { "acqDate": "2024-05-07", "price": 45200, "shares": 7,  "method": "본인자금" },
+    { "acqDate": "2024-06-07", "price": 45500, "shares": 7,  "method": "본인자금" },
+    { "acqDate": "2024-07-05", "price": 46000, "shares": 10, "method": "무상출연" },
+    { "acqDate": "2024-07-07", "price": 46200, "shares": 7,  "method": "본인자금" },
+    { "acqDate": "2024-08-07", "price": 47000, "shares": 7,  "method": "본인자금" },
+    { "acqDate": "2024-09-07", "price": 47500, "shares": 7,  "method": "본인자금" },
+    { "acqDate": "2024-10-07", "price": 48000, "shares": 7,  "method": "본인자금" },
+
+    { "acqDate": "2025-01-07", "price": 46500, "shares": 7,  "method": "본인자금" },
+    { "acqDate": "2025-02-07", "price": 48200, "shares": 7,  "method": "본인자금" },
+    { "acqDate": "2025-03-07", "price": 51500, "shares": 6,  "method": "본인자금" },
+    { "acqDate": "2025-04-07", "price": 49500, "shares": 6,  "method": "본인자금" },
+    { "acqDate": "2025-05-07", "price": 51000, "shares": 6,  "method": "본인자금" },
+    { "acqDate": "2025-06-07", "price": 50200, "shares": 6,  "method": "본인자금" },
+    { "acqDate": "2025-07-05", "price": 51000, "shares": 10, "method": "무상출연" },
+    { "acqDate": "2025-07-07", "price": 52000, "shares": 6,  "method": "본인자금" },
+    { "acqDate": "2025-08-07", "price": 50800, "shares": 6,  "method": "본인자금" },
+    { "acqDate": "2025-09-05", "price": 50500, "shares": 6,  "method": "본인자금" },
+    { "acqDate": "2025-10-07", "price": 49800, "shares": 6,  "method": "본인자금" }
+  ]
+}

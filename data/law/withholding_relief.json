@@ -1,0 +1,9 @@
+{
+  "obligationYears": 2,
+  "reliefs": [
+    { "minYears": 0, "maxYears": 2, "rate": 0.0 },
+    { "minYears": 2, "maxYears": 4, "rate": 0.5 },
+    { "minYears": 4, "maxYears": null, "rate": 0.75 }
+  ],
+  "employmentIncomeTaxRate": 0.15
+}

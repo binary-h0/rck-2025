@@ -1,0 +1,9 @@
+{
+  "currency": "KRW",
+  "brackets": [
+    { "upTo": 14000000, "rate": 0.06 },
+    { "upTo": 50000000, "rate": 0.15 },
+    { "upTo": 88000000, "rate": 0.24 },
+    { "upTo": null, "rate": 0.24 }
+  ]
+}
